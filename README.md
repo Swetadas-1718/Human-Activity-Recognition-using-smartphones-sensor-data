@@ -34,5 +34,5 @@ Ever wondered how your smartphone, smartwatch or wristband knows when you’re w
 - Each datapoint corresponds one of the 6 Activities.
 
 ## Problem Statement
-Given a new datapoint we have to predict the Activity
+Given a new datapoint, we have to predict the Activity
 
