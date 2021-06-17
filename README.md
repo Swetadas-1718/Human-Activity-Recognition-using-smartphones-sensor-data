@@ -33,6 +33,6 @@ Ever wondered how your smartphone, smartwatch or wristband knows when you’re w
 - 30 subjects(volunteers) data is randomly split to 70%(21) test and 30%(7) train data.
 - Each datapoint corresponds one of the 6 Activities.
 
-Problem Statement
+## Problem Statement
 Given a new datapoint we have to predict the Activity
 
